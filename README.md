@@ -222,4 +222,4 @@ WanaKiwi is offered as a complete free version with all features and updates inc
 Don't wait until it's too late! Download WanaKiwi today and protect your files from ransomware attacks!
 
 ---
-**Last updated:** 2026-09-17 09:07:15 UTC
+**Last updated:** 2026-09-17 14:36:28 UTC
